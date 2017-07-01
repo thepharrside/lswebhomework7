@@ -1,6 +1,4 @@
 Array:  An array, simply put, is a collection of data. The data in an aray can be many types whether a string, number, boolean, etc.
-
 Object: An object is a container for a collection of information about the container. The collection of information is collected in key -> value pairs. For example, a Person might be our object. Every person has a first name, and an age. So those would be our keys for the person object. The values for those keys would be different for each person. 
-
 Method: A method is an action that can be performed on an object. For example, .length is a method that can be used on arrays to determine how long they are.
 
